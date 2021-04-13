@@ -1,0 +1,126 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Roboto, Arial, sans-serif;
+	font-size: 14px;
+	background: #f7f7fc;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+	padding: 0;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.btn:hover, .btn:focus {
+	outline: none!important;
+}
+
+/*--------------------------------------
+		Coded by Ho Quoc Hieu
+			www.quochieu.com
+--------------------------------------*/
+
+.cart-wrapper,
+.product-wrapper {
+	padding-top: 20px;
+}
+
+.cart-wrap,
+.product-wrap {
+	width: 840px;
+}
+
+.product-item {
+    border-radius: 8px;
+    background: rgba(255,255,255,.98);
+    box-shadow: 0 4px 12px 0 rgba(9,32,76,.05);
+    overflow: hidden;
+    padding: 20px;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.product-thumbnail {
+    width: 110px;
+}
+
+img.img-thumb {
+    width: 100px;
+    height: auto;
+    border-radius: 8px;
+}
+
+h3.product-title {
+    flex: 5;
+}
+
+h3.product-title a {
+    font-size: 16px;
+    color: #000;
+    padding-left: 10px;
+}
+
+span.price.item-price {
+    font-size: 14px;
+    display: block;
+    padding-left: 10px;
+    color: #dc3545;
+    padding-top: 7px;
+}
+
+.product-action {
+    flex: 2;
+    text-align: center;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-addtocart {
+    background: #dc3545;
+    border: none;
+    color: #fff!important;
+    padding: .375rem 1rem;
+}
+
+.credit {
+	clear: both;
+	margin: 10px;
+	text-align: center;
+}
+
+.cart-inner {
+	border-radius: 8px;
+    background: rgba(255,255,255,.98);
+    box-shadow: 0 4px 12px 0 rgba(9,32,76,.05);
+    overflow: hidden;
+    padding: 20px;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+img.table-img {
+    width: 70px;
+    height: auto;
+}
+
+tr.trsum {
+    background: #f6f6f6;
+}
+
+tr.trsum td {
+    font-weight: 700;
+    color: #dc3545;
+    border: 1px solid #eae7e796;
+    border-top: none;
+    border-bottom: none;
+}

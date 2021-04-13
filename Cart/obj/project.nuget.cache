@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SP4e4EJS4bxHUENSrBKpeBC/qL5m/zl0MOcH+YvZPWJcWQzA1/tXThrCB+UCoOdOM6wkTfwPJV/Q6PbtZAz1PQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ken\\OneDrive\\Máy tính\\ASP.net\\Cart\\Cart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ken\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
